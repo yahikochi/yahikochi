@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=yahikochi&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](LU PUNYA MUKA MACAM LANCIO😹)
+No Quotes!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yahikochi&limit=5&theme=dark&combine_all_yearly_contributions=true)
